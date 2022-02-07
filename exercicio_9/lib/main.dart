@@ -13,7 +13,7 @@ class Alinhamento extends StatelessWidget {
       home: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisAlignment: MainAxisAlignment.start,
-         const children: [
+          children: [
           const Block(color: Colors.amberAccent, height: 100, width: 100),
           const Block(color: Colors.blueAccent, height: 100, width: 100),
           const Block(color: Colors.indigo, height: 100, width: 100)
